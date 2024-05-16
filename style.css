@@ -1,0 +1,55 @@
+body {
+	background-color: #ECE2D0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #D5B9B2;
+}
+
+.bodbod {
+  color: #A26769;
+  font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+h1 {
+  font-size: 60px;
+  color: #A26769;
+  text-align: center;
+  font-family: "Ubuntu Sans", sans-serif;
+}
+.topnav {
+  background-color:#A26769;
+  font-size: 50px;
+  text-align: center;
+}
+
+
+#homePage {
+  background-color: #D5B9B2;
+}
+.topnav a:hover {
+  background-color: #6D4646;
+   color: #D5B9B2;
+}
+
+.topnav a.active {
+   color: #D5B9B2;
+}
+
+
+
+
+
